@@ -15,5 +15,10 @@ function arayTotal(numbers) {
     }
     return sum;
 }
-const total = arayTotal([32, 45, 67]);
-console.log(total);
+
+
+
+// Quiz
+
+// const total = arayTotal([32, 45, 67]);
+// console.log(total);
